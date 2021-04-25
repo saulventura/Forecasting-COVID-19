@@ -6,7 +6,7 @@ This app uses Linear Regression, Random Forests, XGboost, and Facebook Prophet t
 The data used for training the models was obtained from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 GitHub JHU CSSE account
 
-[Click here to see the App](https://saulventura.shinyapps.io/Stock-Market-App/)
+[Click here to see the App](https://saulventura.shinyapps.io/Dashboard-COVID-19/)
 
 ![Demo](https://github.com/saulventura/Dashboard-COVID-19/blob/master/demo1.gif)
 
